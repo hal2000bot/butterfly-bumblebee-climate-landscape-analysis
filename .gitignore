@@ -1,0 +1,13 @@
+.Rhistory
+.RData
+.Rproj.user/
+.Renviron
+.env
+*.Rproj
+.DS_Store
+/data/
+/outputs/
+*.rds
+*.RDS
+*.rda
+*.RData
