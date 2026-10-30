@@ -1,6 +1,6 @@
 # Bumblebee and butterfly climate and community analyses
 
-This repository contains a plain R script combining shared preparation with three final analyses:
+This repository contains an R script outlining data preparation and analyses:
 
 1. A `glmmTMB` Gaussian model of **within-locality-standardized log(1 + total abundance)**, including `habitat_type`, taxon-by-year and taxon-by-climate interactions, quadratic summer/prior-summer temperatures, cubic spring temperature, and locality-level temporal AR(1) correlation.
 2. A bumblebee fourth-corner negative-binomial GLLVM.
